@@ -9,7 +9,7 @@
 
 **Kelas:** *TI.24.A3*
 
-**Program Studi** *Informatika*
+**Program Studi:** *Informatika*
 
 **Dosen:** Agung Nugroho, M.Kom
 
