@@ -11,7 +11,7 @@
 
 **Program Studi:** *Informatika*
 
-**Dosen:** Agung Nugroho, M.Kom
+**Dosen:** Agung Nugroho, S.Kom., M.Kom.
 
 ---
 
